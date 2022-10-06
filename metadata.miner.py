@@ -1,7 +1,7 @@
 '''
 Check data by looking into JSON files 
 Akond Rahman 
-Oct 4 2022
+October 4 2022
 '''
 import os 
 import json 
